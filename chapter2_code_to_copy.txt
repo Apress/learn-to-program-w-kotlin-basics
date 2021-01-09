@@ -1,0 +1,32 @@
+Challenge 2.1
+fun tileColors() : Array<Array<Int>> {
+    return arrayOf(
+            arrayOf(255, 0),
+            arrayOf(0, 255)
+    )
+}
+
+Challenge 2.2
+fun tileColors() : Array<Array<Int>> {
+    return arrayOf(
+            arrayOf(0, 0),
+            arrayOf(0, 255)
+    )
+}
+
+Challenge 2.3
+fun tileColors() : Array<Array<Int>> {
+    return arrayOf(
+            arrayOf(0, 255, 0),
+            arrayOf(255, 0, 255),
+            arrayOf(0, 255, 0)
+    )
+}
+
+Challenge 2.4
+fun tileColors() : Array<Array<Int>> {
+    return arrayOf(
+            arrayOf(0, 64),
+            arrayOf(128, 192)
+    )
+}
