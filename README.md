@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository is for Chapter 1 of 
+This repository is for Chapters 1 to 8 of 
 [*Learn to Program with Kotlin*](https://www.apress.com/9781484268148) 
 by Tim Lavers (Apress, 2021).
 
