@@ -49,15 +49,15 @@ fun tileColors(): Array<Array<Int>> {
     for (col in 0..4) {
         shades[0][col] = 0
     }
-    //Row 1 is dark grey.
+    //Row 1 is dark gray.
     for (col in 0..4) {
         shades[1][col] = 65
     }
-    //Row 2 is grey.
+    //Row 2 is gray.
     for (col in 0..4) {
         shades[2][col] = 130
     }
-    //Row 3 is light grey.
+    //Row 3 is light gray.
     for (col in 0..4) {
         shades[3][col] = 195
     }
