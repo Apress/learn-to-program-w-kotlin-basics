@@ -64,8 +64,8 @@ fun main() {
 
 
 fun tileColors(): Array<Array<Int>> {
-    val shades = Array<Array<Int>>(16) {
-        Array<Int>(16) { 0 }
+    val shades = Array(16) {
+        Array(16) { 0 }
     }
     for (row in 0..15) {
         for (col in 0..15) {
@@ -93,7 +93,7 @@ fun tileColors(): Array<Array<Int>> {
     return shades
 }
 
-Stripes pattern in Section 5.3:
+Code in Challenge 5.8:
 fun tileColors(): Array<Array<Int>> {
     val shades = Array(7) {
         Array(7) { 0 }
