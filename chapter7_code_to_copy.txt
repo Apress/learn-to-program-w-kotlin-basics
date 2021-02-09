@@ -68,6 +68,28 @@ fun main() {
 }
 
 
+Section 7.4:
+package lpk.basics
+
+fun main() {
+     val str = "abc"
+     for (c in str) {
+          println(c)
+     }
+}
+
+Also in Section 7.4:
+package lpk.basics
+
+fun main() {
+     val str = "abc"
+     val c_0 = 'a'
+     println(c_0)
+     val c_1 = 'b'
+     println(c_1)
+     val c_2 = 'c'
+     println(c_2)
+}
 
 Just before Programming Challenge 7.4:
 fun main() {
